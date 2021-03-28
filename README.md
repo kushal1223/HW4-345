@@ -4,7 +4,7 @@
 
 <h3> Parts 1 and 2:
 
-
+![SSW 345 hw4 p1](https://user-images.githubusercontent.com/62805944/112767654-012e6580-8fe6-11eb-92c3-1f104d9e5b16.JPG)
 
 <h3> Parts 3 and 4:
 
