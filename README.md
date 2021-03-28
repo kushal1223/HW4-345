@@ -8,7 +8,7 @@
 
 <h3> Parts 3 and 4:
 
-
+![SSW 345 hw4 p2](https://user-images.githubusercontent.com/62805944/112740612-4b630880-8f4c-11eb-91c2-6ac9a8d234a5.JPG)
 
 
 # Introduction
